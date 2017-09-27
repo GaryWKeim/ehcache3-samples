@@ -6,7 +6,7 @@
   <version>1.0.0-SNAPSHOT</version>
 
   <properties>
-    <ehcache.version>3.4.0-SNAPSHOT</ehcache.version>
+    <ehcache.version>3.4.1-SNAPSHOT</ehcache.version>
   </properties>
 
   <build>
